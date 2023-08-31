@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&display=swap');
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Castoro Titling', cursive;
+
+}
+.button{
+  width: 66px;
+  padding:20px;
+  margin:0 3px;
+  border:2px solid black;
+  border-radius:9px;
+  cursor:pointer;
+}
+.row{
+  margin:8px 0;
+}
+.row input{
+  width: 280px;
+  font-size: 18px;
+  padding:2px 7px;
+  border:2px solid black;
+  border-radius: 5px;
+}
